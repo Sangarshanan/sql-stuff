@@ -2,18 +2,25 @@
 
 These are basic kind of joins in sql
 
-- INNER JOIN: Returns records that have matching values in both tables
+
+INNER JOIN: Returns records that have matching values in both tables
+
+
 ![alt img](https://www.w3schools.com/sql/img_innerjoin.gif)
 
 Natural join is very similar to inner join except that in inner join the common column is repeated and in natural join this repeat is avoided
 
-- LEFT JOIN: Returns all records from the left table, and the matched records from the right table
+
+LEFT JOIN: Returns all records from the left table, and the matched records from the right table
+
 ![alt img](https://www.w3schools.com/sql/img_leftjoin.gif)
 
-- RIGHT JOIN: Returns all records from the right table, and the matched records from the left table
+RIGHT JOIN: Returns all records from the right table, and the matched records from the left table
+
 ![alt img](https://www.w3schools.com/sql/img_rightjoin.gif)
 
-- FULL JOIN: Returns all records when there is a match in either left or right table
+FULL JOIN: Returns all records when there is a match in either left or right table
+
 ![alt img](https://www.w3schools.com/sql/img_fulljoin.gif)
 
 
