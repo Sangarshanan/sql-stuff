@@ -1,4 +1,4 @@
-#### Joins 
+# Joins 
 
 These are basic kind of joins in sql
 
