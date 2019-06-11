@@ -3,9 +3,9 @@
 Back to basics with sql
 
 
-#### 1. [Joins](https://github.com/Sangarshanan/sql-stuff/blob/master/Joins/joins.md)
+#### 1. Joins
 
-#### 2. [Rank](https://github.com/Sangarshanan/sql-stuff/blob/master/Rank/rank.md)
+#### 2. Rank
 
 #### 3. Lead / Lag
 
