@@ -7,5 +7,7 @@ Back to basics with sql
 
 #### 2. [Rank](https://github.com/Sangarshanan/sql-stuff/blob/master/Rank/rank.md)
 
+#### 3. Lead / Lag
+
 
 
