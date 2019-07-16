@@ -9,7 +9,7 @@ Back to basics with sql
 
 #### 3. Lead / Lag
 
-#### 3. Row_Number
+#### 4. Row_Number
 
 
 
